@@ -1,0 +1,4 @@
+In this TP, we learned about the data analysis and machine learning workflow using Python and various libraries. We started by loading real-world datasets using Pandas and explored them to understand their structure and quality. We then preprocessed the data and performed K-Means clustering, an unsupervised machine learning technique, using Scikit-Learn. We also used Principal Component Analysis (PCA) to reduce the dimensionality of the data, which is crucial for visualizing high-dimensional data. Finally, we used Matplotlib and Seaborn to visualize data relationships and integrate PCA and K-Means clustering to visualize clusters in a reduced 2D space.
+
+In other words we used Python to load, explore, preprocess, and visualize real-world datasets. We also performed K-Means clustering and PCA to discover patterns within the data.
+

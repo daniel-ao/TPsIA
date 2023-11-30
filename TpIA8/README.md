@@ -1,0 +1,5 @@
+In this script, we started by loading a wine dataset and preparing it for evaluating a binary classification model using a ROC curve. The data was converted into a dataframe, classes were binarized, and the dataset was split into training and testing sets. Then, a decision tree classifier was trained on the training data.
+
+We predicted the classes for the test set and calculated the false positive rates, true positive rates, and area under the curve for each class. We plotted the ROC curve for one of the classes, displaying the model's performance. Additionally, we included a theoretical line for a model with AUC=0.5 and set the axes' boundaries.
+
+Labels, title, legend, and axis descriptions were added for clarity. Finally, we displayed the ROC curve. This script guides you through the process of evaluating a classification model's performance using the ROC curve in a clear and structured manner.
